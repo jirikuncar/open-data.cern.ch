@@ -11,12 +11,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">173190255</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -161,12 +157,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">177887787</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -311,12 +303,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">177998253</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -461,12 +449,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">165833517</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -611,12 +595,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">166967575</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -761,12 +741,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">165745269</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -911,12 +887,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">237763769</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1073,12 +1045,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">241077211</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1235,12 +1203,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">230606962</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1397,12 +1361,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">224708863</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1559,12 +1519,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">230639068</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1721,12 +1677,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">226972347</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -1883,12 +1835,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">222779120</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2045,12 +1993,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">224563384</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2207,12 +2151,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">246914648</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2369,12 +2309,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">249209387</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2531,12 +2467,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">236403405</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2693,12 +2625,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">232756710</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -2855,12 +2783,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">642734893</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3017,12 +2941,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">631403633</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3179,12 +3099,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">637809345</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3341,12 +3257,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">627477318</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3503,12 +3415,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">627229389</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3665,12 +3573,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">654726366</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3827,12 +3731,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">647597433</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -3989,12 +3889,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">623690680</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4151,12 +4047,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">571649861</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4313,12 +4205,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">583440313</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4475,12 +4363,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">567960183</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4637,12 +4521,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">610017838</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4799,12 +4679,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">592579802</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -4961,12 +4837,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">595724037</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5123,12 +4995,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">605547174</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5285,12 +5153,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">589017809</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5447,12 +5311,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">593970802</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5609,12 +5469,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">590573696</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5771,12 +5627,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">581898371</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -5933,12 +5785,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">581625484</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6095,12 +5943,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">611591268</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6257,12 +6101,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">633582706</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6419,12 +6259,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">594776765</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6581,12 +6417,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">561881003</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6743,12 +6575,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">601295619</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -6905,12 +6733,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">570895434</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7067,12 +6891,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">560607175</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7229,12 +7049,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">610649018</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7391,12 +7207,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">603135444</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7553,12 +7365,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">575762422</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7715,12 +7523,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">590254536</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -7877,12 +7681,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">581854404</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -8039,12 +7839,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">585843322</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -8201,12 +7997,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">608365317</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -8363,12 +8155,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">602965682</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -8525,12 +8313,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">586662035</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -8687,12 +8471,8 @@ index</subfield>
       <subfield code="a">Dataset</subfield>
       <subfield code="f">20</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">1000</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">591077041</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>

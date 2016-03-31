@@ -15,8 +15,6 @@
       <subfield code="a">Software</subfield>
       <subfield code="f">1</subfield>
       <subfield code="t">file</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">110661</subfield>
       <subfield code="t">bytes</subfield>
     </datafield>
@@ -99,8 +97,6 @@
       <subfield code="a">Software</subfield>
       <subfield code="f">1</subfield>
       <subfield code="t">file</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">21107</subfield>
       <subfield code="t">bytes</subfield>
     </datafield>

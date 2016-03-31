@@ -11,8 +11,6 @@
       <subfield code="a">Software</subfield>
       <subfield code="f">2</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">281283281</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>

@@ -18,12 +18,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="f">11</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="e">342</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">772862267</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>

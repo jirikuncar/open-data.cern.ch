@@ -15,12 +15,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="e">26718043</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="f">6</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">134939836155</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
@@ -127,12 +123,8 @@
       <subfield code="a">Dataset</subfield>
       <subfield code="e">24668844</subfield>
       <subfield code="t">events</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="f">6</subfield>
       <subfield code="t">files</subfield>
-    </datafield>
-    <datafield tag="256" ind1=" " ind2=" ">
       <subfield code="b">82230947475</subfield>
       <subfield code="t">bytes in total</subfield>
     </datafield>
